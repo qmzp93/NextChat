@@ -38,6 +38,6 @@
 12. 點擊 "Save and Deploy"。
 13. 點擊 "Cancel deployment"，因為您需要填寫 "Compatibility flags"。
 14. 前往 "Build settings"，"Functions"，並找到 "Compatibility flags"。
-15. 在 "Configure Production compatibility flag"和"Configure Preview compatibility flag"中，填入 `nodejs_compat`。
+15. 在 "Configure Production compatibility flag"和"Configure Preview compatibility flag"中，填入 "nodejs_compat"。
 16. 前往 "Deployments"，然後點擊 "Retry deployment"。
-17. 享受使用。
+17. Enjoy。
