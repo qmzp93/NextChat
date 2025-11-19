@@ -14,7 +14,7 @@
 
 ![vercel-create-3](./images/vercel/vercel-create-3.jpg)
 1.  在專案配置頁面，點開 Environment Variables 開始配置環境變數。
-2.  依序新增名為 OPENAI_API_KEY 和 CODE ([访问密码](https://github.com/Yidadaa/ChatGPT-Next-Web/blob/357296986609c14de10bf210871d30e2f67a8784/docs/faq-cn.md#%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F-code-%E6%98%AF%E4%BB%80%E4%B9%88%E5%BF%85%E9%A1%BB%E8%AE%BE%E7%BD%AE%E5%90%97)) 的環境變數。
+2.  依序新增名為 OPENAI_API_KEY 和 CODE ([Access Code](https://github.com/Yidadaa/ChatGPT-Next-Web/blob/357296986609c14de10bf210871d30e2f67a8784/docs/faq-cn.md#%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F-code-%E6%98%AF%E4%BB%80%E4%B9%88%E5%BF%85%E9%A1%BB%E8%AE%BE%E7%BD%AE%E5%90%97)) 的環境變數。
 3.  填入環境變數對應的值。
 4.  點擊 Add 確認增加環境變數。
 5.  請確保您已新增 OPENAI_API_KEY，否則無法使用。
